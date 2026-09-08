@@ -1,6 +1,6 @@
 # Tugas : Program Bebas
-Nama    = "Hamdi Sidqi Alifi"
-NIM     = "2511531009"
-Jurusan = "Informatika"
+Nama_1009    = "Hamdi Sidqi Alifi"
+NIM_1009     = "2511531009"
+Jurusan_1009 = "Informatika"
 
-print("Nama : ", Nama, ", NIM : ", NIM, ", Jurusan : ", Jurusan)
+print("Nama_1009 : ", Nama_1009, ", NIM_1009 : ", NIM_1009, ", Jurusan : ", Jurusan_1009)
