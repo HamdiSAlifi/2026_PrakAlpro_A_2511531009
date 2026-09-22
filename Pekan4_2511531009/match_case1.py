@@ -1,6 +1,6 @@
-bulanzxc = int(input("Masukkan Angka Bulan (1 - 12): "))
+bulan_1009 = int(input("Masukkan Angka Bulan (1 - 12): "))
 
-match bulanzxc: 
+match bulan_1009: 
     case 1:
         print("Januari")
     case 2:
